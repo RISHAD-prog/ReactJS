@@ -1,0 +1,8 @@
+.details {
+    padding: 3% 30%;
+}
+
+.details-img {
+    object-fit: cover;
+    padding: 2% 5% 10% 5%;
+}

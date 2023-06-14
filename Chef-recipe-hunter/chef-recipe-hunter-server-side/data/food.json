@@ -1,0 +1,659 @@
+[
+    {
+        "id": "1",
+        "chefPicture": "https://images.unsplash.com/photo-1600565193348-f74bd3c7ccdf?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8Y2hlZnxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+        "chefName": "Rajesh Sharma",
+        "yearsOfExperience": 12,
+        "description": "A Michelin-starred chef who has authored several cookbooks and hosted TV shows. He is known for his innovative approach to traditional Indian cuisine and has been recognized for his philanthropic efforts in India",
+        "recipe": [
+            {
+                "name": "Chicken Tikka Masala",
+                "ingredients": [
+                    "Chicken breast",
+                    "Yogurt",
+                    "Garam masala",
+                    "Paprika",
+                    "Cumin",
+                    "Ginger"
+                ],
+                "ratings": "4.5",
+                "cooking_method": [
+                    "Cut the chicken into bite-sized pieces and marinate in yogurt, garam masala, paprika, cumin, turmeric, ginger, and garlic for at least 1 hour.",
+                    "Preheat a grill or broiler to high heat.",
+                    "Thread the chicken onto skewers and grill or broil until cooked through and slightly charred.",
+                    "In a large skillet, heat oil over medium heat and add chopped onions. Cook until softened and translucent.",
+                    "Add minced garlic and grated ginger and cook for 1-2 minutes.",
+                    "Stir in canned tomatoes and cream and bring to a simmer.",
+                    "Add the cooked chicken to the skillet and simmer for a few more minutes.",
+                    "Season with salt and serve with rice or naan bread."
+                ]
+            },
+            {
+                "name": "Palak Paneer",
+                "ingredients": [
+                    "Spinach",
+                    "Paneer",
+                    "Tomatoes",
+                    "Onion",
+                    "Garlic",
+                    "Ginger",
+                    "Garam masala",
+                    "Cumin",
+                    "Turmeric",
+                    "Cream",
+                    "Salt",
+                    "Oil"
+                ],
+                "ratings": "4",
+                "cooking_method": [
+                    "Blanch spinach in boiling water for 2-3 minutes, then drain and plunge into ice water.",
+                    "Drain the spinach and blend to a fine paste.",
+                    "In a large skillet, heat oil over medium heat and add chopped onions. Cook until softened and translucent.",
+                    "Add minced garlic and grated ginger and cook for 1-2 minutes.",
+                    "Add chopped tomatoes and cook until softened and the mixture thickens.",
+                    "Stir in garam masala, cumin, and turmeric and cook for 1-2 minutes.",
+                    "Add the spinach puree and cook for a few more minutes.",
+                    "Cut paneer into small cubes and add to the skillet. Cook for 2-3 minutes until the paneer is heated through.",
+                    "Stir in cream and salt, and serve with rice or naan bread."
+                ]
+            },
+            {
+                "name": "Naan Bread",
+                "ingredients": [
+                    "All-purpose flour",
+                    "Yeast",
+                    "Sugar",
+                    "Salt",
+                    "Baking powder",
+                    "Milk",
+                    "Yogurt",
+                    "Oil or butter"
+                ],
+                "ratings": "4.3",
+                "cooking_method": [
+                    "In a mixing bowl, combine flour, yeast, sugar, salt, and baking powder.",
+                    "Add milk, yogurt, and oil or butter to the bowl and mix until a dough forms.",
+                    "Knead the dough on a floured surface for a few minutes until it becomes smooth.",
+                    "Place the dough in a greased bowl, cover with a damp cloth, and let rise in a warm place for 1-2 hours.",
+                    "Preheat a cast-iron skillet or griddle over high heat.",
+                    "Divide the dough into small balls and roll out each ball into a teardrop shape.",
+                    "Place the naan on the skillet and cook for 1-2 minutes until bubbles form and the bottom is browned.",
+                    "Flip the naan and cook for another 1-2 minutes until the other side is browned.",
+                    "Brush with butter and serve warm."
+                ]
+            },
+            {
+                "name": "Tandoori Chicken",
+                "ingredients": [
+                    "Chicken legs or breasts",
+                    "Yogurt",
+                    "Lemon juice",
+                    "Ginger",
+                    "Garlic",
+                    "Garam masala",
+                    "Cumin",
+                    "Turmeric",
+                    "Paprika",
+                    "Cayenne pepper",
+                    "Salt",
+                    "Oil"
+                ],
+                "ratings": "4.2",
+                "cooking_method": [
+                    "Make deep slashes on the chicken thighs with a knife.",
+                    "In a mixing bowl, combine yogurt, lemon juice, minced ginger, minced garlic, garam masala, cumin, paprika, turmeric, cayenne pepper, salt, and oil.",
+                    "Marinate the chicken in the mixture for at least 2 hours or overnight.",
+                    "Preheat an oven to 450°F (230°C).",
+                    "Line a baking sheet with parchment paper and place the chicken on the sheet.",
+                    "Bake for 20-25 minutes until the chicken is cooked through and slightly charred.",
+                    "Alternatively, grill the chicken over high heat for 10-15 minutes until cooked through and slightly charred.",
+                    "Serve with rice, naan bread, and lemon wedges."
+                ]
+            }
+        ],
+        "likes": "1024",
+        "totalRecipes": "30"
+    },
+    {
+        "id": "2",
+        "chefPicture": "https://plus.unsplash.com/premium_photo-1661778091956-15dbe6e47442?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTN8fGNoZWZ8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+        "chefName": "Maria Rodriguez",
+        "yearsOfExperience": 8,
+        "description": " A celebrity chef and entrepreneur who has authored numerous cookbooks and hosted TV shows. He is known for his modern twist on classic Indian dishes and his efforts to promote healthy cooking",
+        "recipe": [
+            {
+                "name": "Haydrabadi Biryani",
+                "ingredients": [
+                    "White fish (such as tilapia or halibut)",
+                    "Lime juice",
+                    "Red onion",
+                    "Jalapeño pepper",
+                    "Cilantro",
+                    "Salt",
+                    "Pepper",
+                    "Avocado",
+                    "Tomatoes",
+                    "Tortilla chips"
+                ],
+                "cooking_method": [
+                    "Cut the fish into small bite-sized pieces.",
+                    "In a mixing bowl, combine the fish, lime juice, finely chopped red onion, finely chopped jalapeño pepper, chopped cilantro, salt, and pepper. Mix well.",
+                    "Cover the bowl with plastic wrap and refrigerate for 1-2 hours, stirring occasionally.",
+                    "When ready to serve, slice the avocado and chop the tomatoes.",
+                    "Divide the ceviche into serving bowls and top with avocado and tomatoes.",
+                    "Serve with tortilla chips."
+                ],
+                "ratings": "4.2"
+            },
+            {
+                "name": "Kema Matar",
+                "ingredients": [
+                    "Ground beef",
+                    "Onion",
+                    "Garlic",
+                    "Cumin",
+                    "Paprika",
+                    "Oregano",
+                    "Salt",
+                    "Pepper",
+                    "Pie crust dough",
+                    "Egg",
+                    "Water"
+                ],
+                "cooking_method": [
+                    "In a large skillet, brown the ground beef over medium heat.",
+                    "Add chopped onions and minced garlic and cook until the onions are softened.",
+                    "Stir in cumin, paprika, oregano, salt, and pepper and cook for 1-2 minutes.",
+                    "Remove the skillet from heat and let the mixture cool.",
+                    "Preheat the oven to 375°F (190°C).",
+                    "Roll out the pie crust dough on a floured surface and cut into circles using a biscuit cutter or the rim of a glass.",
+                    "Place a spoonful of the beef mixture in the center of each circle.",
+                    "Fold the dough over the filling and crimp the edges with a fork to seal.",
+                    "Whisk together an egg and water in a small bowl and brush the mixture over the empanadas.",
+                    "Bake for 20-25 minutes until the empanadas are golden brown.",
+                    "Serve hot."
+                ],
+                "ratings": "4.6"
+            },
+            {
+                "name": "DOSA",
+                "ingredients": [
+                    "Chicken thighs",
+                    "Onion",
+                    "Garlic",
+                    "Tomatoes",
+                    "Green bell pepper",
+                    "Chicken broth",
+                    "Rice",
+                    "Cumin",
+                    "Paprika",
+                    "Salt",
+                    "Pepper",
+                    "Peas",
+                    "Olives"
+                ],
+                "cooking_method": [
+                    "Preheat the oven to 350°F (180°C).",
+                    "In a large skillet, brown the chicken thighs over medium-high heat.",
+                    "Add chopped onions and minced garlic and cook until the onions are softened.",
+                    "Stir in chopped tomatoes and diced green bell pepper and cook for 1-2 minutes.",
+                    "Add chicken broth, uncooked rice, cumin, paprika, salt, and pepper to the skillet and stir to combine.",
+                    "Transfer the mixture to a baking dish and cover tightly with foil.",
+                    "Bake for 45-50 minutes until the chicken is cooked through and the rice is tender.",
+                    "Stir in frozen peas and sliced olives and bake for another 5-10 minutes.",
+                    "Serve hot."
+                ],
+                "ratings": "4.3"
+            },
+            {
+                "name": "Mutton CURRY",
+                "ingredients": [
+                    "Beef sirloin",
+                    "Onion",
+                    "Tomatoes",
+                    "Yellow chili pepper",
+                    "Soy sauce",
+                    "Vinegar",
+                    "Cumin",
+                    "Salt",
+                    "Pepper",
+                    "Oil",
+                    "French fries",
+                    "Rice"
+                ],
+                "cooking_method": [
+                    "Slice the beef sirloin into thin strips.",
+                    "In a large skillet, heat oil over high heat.",
+                    "Add the beef strips and cook until browned.",
+                    "Add sliced onions and chopped tomatoes and cook for 1-2 minutes.",
+                    "Stir in sliced yellow chili pepper, soy sauce, vinegar, cumin, salt, and pepper and cook for another 1-2 minutes.",
+                    "Serve the beef mixture over cooked rice.",
+                    "Serve the dish with French fries on the side."
+                ],
+                "ratings": "4.7"
+            }
+        ],
+        "likes": "876",
+        "totalRecipes": "19"
+    },
+    {
+        "id": "3",
+        "chefPicture": "https://images.unsplash.com/photo-1585358682246-23acb1561f6b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NjV8fGNoZWZ8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+        "chefName": "Kiara Advani",
+        "yearsOfExperience": 15,
+        "description": " A Bangkok-based chef who has been named Asia's Best Chef four times. His eponymous restaurant, Gaggan, is known for its inventive and progressive Indian cuisine that incorporates molecular gastronomy techniques",
+        "recipe": [
+            {
+                "name": "Sushi Rolls",
+                "ingredients": [
+                    "Sushi rice",
+                    "Nori seaweed",
+                    "Rice vinegar",
+                    "Sugar",
+                    "Salt",
+                    "Fish or seafood (e.g. tuna, salmon, shrimp)",
+                    "Avocado",
+                    "Cucumber",
+                    "Carrot",
+                    "Soy sauce",
+                    "Wasabi",
+                    "Pickled ginger"
+                ],
+                "cooking_method": [
+                    "Wash the sushi rice several times until the water runs clear. Let the rice soak for 30 minutes.",
+                    "Cook the rice in a rice cooker or on the stovetop according to package instructions.",
+                    "In a small saucepan, heat rice vinegar, sugar, and salt until the sugar dissolves. Let it cool.",
+                    "Transfer the cooked rice to a large bowl and add the vinegar mixture. Mix well and let it cool to room temperature.",
+                    "Place a sheet of nori seaweed shiny side down on a sushi mat.",
+                    "With wet hands, take a handful of rice and spread it evenly over the nori, leaving a 1-inch border at the top.",
+                    "Place fish or seafood, avocado, cucumber, and carrot in the center of the rice.",
+                    "Roll the sushi tightly with the help of the mat, using the border of nori to seal the roll.",
+                    "Repeat with the remaining ingredients.",
+                    "Slice the sushi rolls into bite-sized pieces.",
+                    "Serve with soy sauce, wasabi, and pickled ginger."
+                ],
+                "ratings": "4.7"
+            },
+            {
+                "name": "Tempura",
+                "ingredients": [
+                    "Shrimp or vegetables (e.g. bell pepper, sweet potato)",
+                    "Flour",
+                    "Cornstarch",
+                    "Baking powder",
+                    "Salt",
+                    "Ice water",
+                    "Oil"
+                ],
+                "cooking_method": [
+                    "Peel and devein the shrimp, leaving the tail intact. Cut the vegetables into bite-sized pieces.",
+                    "In a large bowl, whisk together flour, cornstarch, baking powder, and salt.",
+                    "Add ice water gradually and whisk until the batter is smooth and thin.",
+                    "Heat oil in a deep fryer or a heavy-bottomed pot over medium-high heat.",
+                    "Dip the shrimp or vegetables in the batter and shake off the excess.",
+                    "Fry the shrimp or vegetables in the hot oil until golden brown and crispy.",
+                    "Drain the tempura on a paper towel and serve hot."
+                ],
+                "ratings": 4.3
+            },
+            {
+                "name": "Udon Noodles",
+                "ingredients": [
+                    "Udon noodles",
+                    "Dashi stock",
+                    "Soy sauce",
+                    "Mirin",
+                    "Sugar",
+                    "Green onion",
+                    "Fish cake",
+                    "Kamaboko",
+                    "Shiitake mushrooms"
+                ],
+                "cooking_method": [
+                    "Cook the udon noodles according to package instructions. Drain and rinse with cold water.",
+                    "In a saucepan, bring dashi stock, soy sauce, mirin, and sugar to a boil.",
+                    "Add sliced green onion, fish cake, kamaboko, and sliced shiitake mushrooms. Cook for 2-3 minutes.",
+                    "Divide the udon noodles into serving bowls.",
+                    "Pour the hot broth and ingredients over the noodles.",
+                    "Serve hot."
+                ],
+                "ratings": "4.6"
+            },
+            {
+                "name": "Miso Soup",
+                "ingredients": [
+                    "Dashi stock",
+                    "Miso paste",
+                    "Tofu",
+                    "Green onion",
+                    "Seaweed"
+                ],
+                "cooking_method": [
+                    "In a saucepan, bring dashi stock to a boil.",
+                    "Reduce the heat to low and add miso paste. Stir until the miso dissolves completely.",
+                    "Add cubed tofu and sliced green onion. Cook for 2-3 minutes.",
+                    "Remove from heat and add seaweed.",
+                    "Serve hot."
+                ],
+                "ratings": "4.5"
+            }
+        ],
+        "likes": "1502",
+        "totalRecipes": "18"
+    },
+    {
+        "id": "4",
+        "chefPicture": "https://images.unsplash.com/photo-1583394293214-28ded15ee548?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTZ8fGNoZWZ8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+        "chefName": "Sophie Leclerc",
+        "yearsOfExperience": 10,
+        "description": "The chef behind Indian Accent, a critically acclaimed restaurant with locations in New Delhi, New York, and London. He is known for his innovative approach to traditional Indian dishes, such as his signature dish of stuffed kulcha bread with foie gras",
+        "recipe": [
+            {
+                "name": "Chole Bhature",
+                "ingredients": [
+                    "chickpeas",
+                    "flour",
+                    "spices",
+                    "oil",
+                    "onion",
+                    "tomato"
+                ],
+                "ratings": 4.4,
+                "cooking_method": "Boil chickpeas and cook with a blend of spices, serve with deep-fried bread made of flour and yogurt dough, garnished with onion and tomato."
+            },
+            {
+                "name": "Tandoori Chicken",
+                "ingredients": [
+                    "chicken",
+                    "yogurt",
+                    "ginger",
+                    "garlic",
+                    "spices"
+                ],
+                "ratings": 4.7,
+                "cooking_method": "Marinate chicken in a mixture of yogurt and spices, grill in a tandoor oven or a regular oven for a smoky flavor."
+            },
+            {
+                "name": "Rajma Chawal",
+                "ingredients": [
+                    "kidney beans",
+                    "rice",
+                    "spices",
+                    "tomato",
+                    "onion",
+                    "garlic"
+                ],
+                "ratings": "4.3",
+                "cooking_method": "Boil kidney beans with spices and cook in a tomato-based sauce, serve with steamed rice."
+            },
+            {
+                "name": "Fish Curry",
+                "ingredients": [
+                    "fish",
+                    "coconut milk",
+                    "spices",
+                    "onion",
+                    "tomato",
+                    "tamarind"
+                ],
+                "ratings": "4.5",
+                "cooking_method": "Cook fish in a curry made with coconut milk, spices, onion, tomato, and tamarind for a tangy flavor."
+            }
+        ],
+        "likes": "452",
+        "totalRecipes": "20"
+    },
+    {
+        "id": "5",
+        "chefPicture": "https://images.unsplash.com/photo-1574966740793-953ad374e8fe?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MzV8fGNoZWZ8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+        "chefName": "Antonio Rossi",
+        "yearsOfExperience": 20,
+        "description": "A chef and TV personality known for his popular show 'Roti Rasta aur India.' He is the founder of Goila Butter Chicken, a chain of restaurants that specializes in Indian comfort food with a modern twist.",
+        "recipe": [
+            {
+                "name": "Butter Chicken",
+                "ingredients": [
+                    "All-purpose flour",
+                    "Water",
+                    "Milk",
+                    "Sugar",
+                    "Salt",
+                    "Instant yeast",
+                    "Butter"
+                ],
+                "cooking_method": [
+                    "In a large mixing bowl, combine flour, water, milk, sugar, salt, and instant yeast.",
+                    "Mix until a shaggy dough forms.",
+                    "Knead the dough for 5-10 minutes until it becomes smooth and elastic.",
+                    "Cover the dough and let it rest for 30 minutes.",
+                    "Roll out the dough into a rectangle.",
+                    "Place the butter in the center of the rectangle and fold the dough over the butter.",
+                    "Roll out the dough again into a rectangle and fold it into thirds like a letter.",
+                    "Repeat the rolling and folding process 3-4 times, chilling the dough in the refrigerator for 20 minutes between each fold.",
+                    "Roll out the dough to 1/4-inch thickness and cut into triangles.",
+                    "Roll each triangle into a croissant shape and place them on a baking sheet.",
+                    "Let the croissants rise until they double in size.",
+                    "Bake in a preheated oven at 375°F for 15-20 minutes or until golden brown.",
+                    "Serve warm."
+                ],
+                "ratings": "4.1"
+            },
+            {
+                "name": "Palak Paneer",
+                "ingredients": [
+                    "Bread flour",
+                    "Water",
+                    "Salt",
+                    "Instant yeast"
+                ],
+                "cooking_method": [
+                    "In a large mixing bowl, combine bread flour, water, salt, and instant yeast.",
+                    "Mix until a shaggy dough forms.",
+                    "Knead the dough for 5-10 minutes until it becomes smooth and elastic.",
+                    "Cover the dough and let it rest for 30 minutes.",
+                    "Fold the dough in half and let it rest for 30 minutes.",
+                    "Repeat the folding and resting process 3-4 times.",
+                    "Shape the dough into baguettes and place them on a baking sheet.",
+                    "Let the baguettes rise until they double in size.",
+                    "Make diagonal slashes on the surface of the baguettes.",
+                    "Bake in a preheated oven at 450°F for 20-25 minutes or until crusty and golden brown.",
+                    "Serve warm."
+                ],
+                "ratings": "4.4"
+            },
+            {
+                "name": "biryani",
+                "ingredients": [
+                    "Chicken thighs",
+                    "Bacon",
+                    "Carrot",
+                    "Onion",
+                    "Garlic",
+                    "Mushrooms",
+                    "Red wine",
+                    "Chicken broth",
+                    "Tomato paste",
+                    "Flour",
+                    "Thyme",
+                    "Bay leaves",
+                    "Butter",
+                    "Salt",
+                    "Pepper"
+                ],
+                "cooking_method": [
+                    "Season chicken thighs with salt and pepper.",
+                    "In a large Dutch oven, cook bacon until crispy. Remove and set aside.",
+                    "In the same pot, brown the chicken thighs on both sides. Remove and set aside.",
+                    "Add chopped carrot, onion, and garlic to the pot. Cook until softened.",
+                    "Add sliced mushrooms and cook until they release their moisture.",
+                    "Stir in tomato paste and flour. Cook for 1-2 minutes.",
+                    "Deglaze the pot with red wine and chicken broth. Add thyme and bay leaves.",
+                    "Add the chicken thighs and bacon back to the pot.",
+                    "Cover the pot and simmer for 1-2 hours or until the chicken is tender.",
+                    "Stir in butter and adjust seasoning to taste.",
+                    "Serve hot with crusty bread or over mashed potatoes."
+                ],
+                "ratings": "4.9"
+            },
+            {
+                "name": "Ratatouille",
+                "ingredients": [
+                    "Eggplant",
+                    "Zucchini",
+                    "Yellow squash",
+                    "Red bell pepper",
+                    "Onion",
+                    "Garlic",
+                    "Tomatoes",
+                    "Olive oil",
+                    "Thyme",
+                    "Bay leaves",
+                    "Salt",
+                    "Pepper"
+                ],
+                "cooking_method": [
+                    "Preheat oven to 375°F.",
+                    "Slice eggplant, zucchini, yellow squash, and red bell pepper into 1/4-inch thick rounds.",
+                    "Chop onion and garlic.",
+                    "In a large skillet, heat olive oil over medium heat.",
+                    "Add onion and garlic and cook until softened.",
+                    "Add sliced vegetables, thyme, bay leaves, salt, and pepper. Cook until vegetables are slightly softened.",
+                    "Transfer the mixture to a baking dish and arrange the vegetables in a pattern.",
+                    "Cover the dish with foil and bake for 30 minutes.",
+                    "Remove the foil and bake for an additional 15-20 minutes or until the vegetables are tender and lightly browned.",
+                    "Serve hot as a side dish or as a main course with crusty bread."
+                ],
+                "ratings": "4.8"
+            }
+        ],
+        "likes": "2078",
+        "totalRecipes": "40"
+    },
+    {
+        "id": "6",
+        "chefPicture": "https://images.unsplash.com/photo-1512485800893-b08ec1ea59b1?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NDZ8fGNoZWZ8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+        "chefName": "Mai Nguyen",
+        "yearsOfExperience": 5,
+        "description": "A London-based chef who has been awarded two Michelin stars for his eponymous restaurant, Vineet Bhatia London. He is known for his creative and modern approach to Indian cuisine, which incorporates influences from his travels around the world.",
+        "recipe": [
+            {
+                "name": "Masala Dosa",
+                "ingredients": [
+                    "Rice",
+                    "Urad dal",
+                    "Potatoes",
+                    "Onion",
+                    "Green chilies",
+                    "Mustard seeds",
+                    "Cumin seeds",
+                    "Curry leaves",
+                    "Turmeric powder",
+                    "Oil",
+                    "Salt"
+                ],
+                "cooking_method": [
+                    "Wash and soak rice and urad dal separately for at least 4 hours or overnight.",
+                    "Grind them separately to a smooth batter using enough water. Mix both the batters together and let it ferment overnight or for 8 hours.",
+                    "Peel and dice the potatoes into small cubes. Finely chop onion and green chilies.",
+                    "In a pan, heat oil and add mustard seeds. Once they start to splutter, add cumin seeds and curry leaves. Add chopped onions and green chilies and sauté until onions turn translucent.",
+                    "Add diced potatoes, turmeric powder, and salt. Mix well and cook until potatoes are soft.",
+                    "Heat a non-stick pan and pour a ladleful of dosa batter. Spread it evenly in a circular motion to form a thin pancake. Drizzle oil on top and let it cook for a minute.",
+                    "Spread a spoonful of potato masala in the center of the dosa. Fold it into a cylindrical shape and serve hot with coconut chutney and sambar."
+                ],
+                "ratings": "4.3"
+            },
+            {
+                "name": "Dal Makhani",
+                "ingredients": [
+                    "Whole black lentils",
+                    "Red kidney beans",
+                    "Onion",
+                    "Tomatoes",
+                    "Ginger",
+                    "Garlic",
+                    "Green chilies",
+                    "Butter",
+                    "Cream",
+                    "Garam masala",
+                    "Cumin powder",
+                    "Coriander powder",
+                    "Turmeric powder",
+                    "Kasuri methi",
+                    "Salt"
+                ],
+                "cooking_method": [
+                    "Soak whole black lentils and red kidney beans overnight in enough water.",
+                    "Pressure cook them with fresh water, salt, and a pinch of turmeric powder until soft and mushy.",
+                    "In a pan, melt butter and sauté finely chopped onion until they turn golden brown.",
+                    "Add grated ginger, chopped garlic, and green chilies. Sauté until the raw smell goes away.",
+                    "Add chopped tomatoes and cook until they turn soft and mushy.",
+                    "Add garam masala, cumin powder, coriander powder, and turmeric powder. Mix well and cook for a few minutes.",
+                    "Add cooked lentils and kidney beans. Mix well and let it simmer on low heat for 20-30 minutes, stirring occasionally.",
+                    "Add cream and kasuri methi. Mix well and cook for a few minutes.",
+                    "Serve hot with rice, naan, or roti."
+                ],
+                "ratings": "4.4"
+            },
+            {
+                "name": "Vada Pav",
+                "ingredients": [
+                    "Potatoes",
+                    "Garlic",
+                    "Ginger",
+                    "Green chilies",
+                    "Turmeric powder",
+                    "Mustard seeds",
+                    "Cumin seeds",
+                    "Asafoetida",
+                    "Bread crumbs",
+                    "Chickpea flour",
+                    "Buns",
+                    "Oil",
+                    "Salt"
+                ],
+                "cooking_method": [
+                    "Boil potatoes, peel them and mash them.",
+                    "In a pan, heat oil and add mustard seeds. Once they start to splutter, add cumin seeds and asafoetida. Add grated ginger, chopped garlic, and green chilies. Sauté until the raw smell goes away.",
+                    "salt to taste and mix well.",
+                    "Make small balls out of the potato mixture and flatten them slightly to form patties.",
+                    "Mix chickpea flour with water to form a thick batter. Dip each patty in the batter and coat it with bread crumbs.",
+                    "Heat oil in a pan and deep fry the coated patties until golden brown.",
+                    "Cut the buns in half and lightly toast them on a pan. Spread some green chutney and tamarind chutney on the inner side of each half.",
+                    "Place a vada on one half and cover it with the other half.",
+                    "Serve hot with more chutney and fried green chilies."
+                ],
+                "ratings": "4.7"
+            },
+            {
+                "name": "Dhokla",
+                "ingredients": [
+                    "Gram flour",
+                    "Semolina",
+                    "Yogurt",
+                    "Ginger",
+                    "Green chilies",
+                    "Lemon juice",
+                    "Sugar",
+                    "Eno fruit salt",
+                    "Mustard seeds",
+                    "Curry leaves",
+                    "Oil",
+                    "Water",
+                    "Salt"
+                ],
+                "cooking_method": [
+                    "In a bowl, mix gram flour, semolina, yogurt, and enough water to form a smooth batter. Add grated ginger, chopped green chilies, salt, lemon juice, and sugar. Mix well and let it rest for 10-15 minutes.",
+                    "Grease a steaming tray or cake pan with oil. Add eno fruit salt to the batter and mix well. Pour the batter into the greased tray and steam it for 15-20 minutes or until a toothpick inserted comes out clean.",
+                    "Let it cool down for a few minutes and then cut it into small diamond-shaped pieces.",
+                    "For the tempering, heat oil in a pan and add mustard seeds. Once they start to splutter, add curry leaves and sauté for a few seconds.",
+                    "Pour this tempering over the steamed dhokla and spread it evenly.",
+                    "Garnish with chopped coriander leaves and grated coconut.",
+                    "Serve hot with green chutney or tamarind chutney."
+                ],
+                "ratings": "4.8"
+            }
+        ],
+        "likes": "682",
+        "totalRecipes": "30"
+    }
+]
