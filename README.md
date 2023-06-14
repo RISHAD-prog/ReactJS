@@ -10,7 +10,7 @@ Feature List Toy Market:
 * client server link: https://herotoyz-store.web.app/
 
 ***
-Feature List:
+Feature List Chef Recipe:
  I use React router and react boostrap. In this webpage user can: 
 * This website will show some indian chefs and their cuisine 
 * Six chef details available on home page
