@@ -11,7 +11,7 @@ Feature List Toy Market:
 
 ***
 Feature List Chef Recipe:
-* I use React router and react boostrap.
+* I use React router and react boostrap.For hosting i have used firebase and for server side i use express.js and hosting the server into vercel.
 * This website will show some indian chefs and their cuisine 
 * Six chef details available on home page
 * view the details of the a chef 
