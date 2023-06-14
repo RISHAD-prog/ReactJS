@@ -11,7 +11,7 @@ Feature List Toy Market:
 
 ***
 Feature List Chef Recipe:
-I use React router and react boostrap. In this webpage user can: 
+*I use React router and react boostrap.
 * This website will show some indian chefs and their cuisine 
 * Six chef details available on home page
 * view the details of the a chef 
