@@ -1,0 +1,146 @@
+[
+    {
+        "id": "1",
+        "company_logo": "/Logo/google.png",
+        "title": "Software Engineer",
+        "company_name": "Google",
+        "remote_or_onsite": [
+            "Remote",
+            "Fulltime"
+        ],
+        "location": "Dhaka,Bangladesh",
+        "fulltime_or_parttime": "Full-time",
+        "salary": "$80k - $100k",
+        "description": "We are looking for a software engineer to help develop and maintain our web applications.",
+        "responsibilities": [
+            "Develop and maintain web applications using modern web frameworks",
+            "Work closely with other engineers to design and implement new features",
+            "Write high-quality code that is testable, maintainable, and scalable",
+            "Collaborate with product managers to understand customer needs and prioritize features"
+        ],
+        "educational_requirements": "Bachelor's or Master's degree in Computer Science or related field",
+        "experiences": "2+ years of experience in software engineering",
+        "phone": "555-555-5555",
+        "email": "jobs@abccorp.com"
+    },
+    {
+        "id": "2",
+        "company_logo": "/Logo/google1.png",
+        "title": "Marketing Manager",
+        "company_name": "Google",
+        "remote_or_onsite": [
+            "Onsite",
+            "Fulltime"
+        ],
+        "location": "San Francisco, CA",
+        "fulltime_or_parttime": "Full-time",
+        "salary": "$80,000 - $100,000",
+        "description": "We are seeking a Marketing Manager to lead our marketing efforts and help us grow our business.",
+        "responsibilities": [
+            "Develop and implement marketing strategies to increase brand awareness and generate leads",
+            "Manage and execute email marketing campaigns",
+            "Create content for social media channels and oversee social media strategy",
+            "Work with product team to develop and execute product launches"
+        ],
+        "educational_requirements": "Bachelor's degree in Marketing or related field",
+        "experiences": "5+ years of experience in marketing, with 2+ years of experience in a management role",
+        "phone": "555-555-5555",
+        "email": "jobs@xyzcorp.com"
+    },
+    {
+        "id": "3",
+        "company_logo": "/Logo/netflix.png",
+        "title": "Product Designer",
+        "company_name": "Netflix",
+        "remote_or_onsite": [
+            "Onsite",
+            "Fulltime"
+        ],
+        "location": "Dhaka,Bangladesh",
+        "fulltime_or_parttime": "Full-time",
+        "salary": "$70,000 - $100,000",
+        "description": "We are seeking a talented product designer to help us design beautiful and functional products.",
+        "responsibilities": [
+            "Work closely with product managers and engineers to design new products",
+            "Create wireframes, prototypes, and high-fidelity designs",
+            "Conduct user research and gather feedback to inform design decisions",
+            "Collaborate with other designers to maintain a consistent visual language across our products"
+        ],
+        "educational_requirements": "Bachelor's or Master's degree in Graphic Design, User Experience, or related field",
+        "experiences": "3+ years of experience in product design",
+        "phone": "555-555-5555",
+        "email": "jobs@123inc.com"
+    },
+    {
+        "id": "4",
+        "company_logo": "/Logo/tesla.png",
+        "title": "Software Engineer",
+        "company_name": "Tesla",
+        "remote_or_onsite": [
+            "Remote",
+            "Fulltime"
+        ],
+        "location": "Sylhet,Bangladesh",
+        "fulltime_or_parttime": "Full-time",
+        "salary": "$50,000 - $100,000",
+        "description": "We are looking for a software engineer to help develop and maintain our web applications.",
+        "responsibilities": [
+            "Develop and maintain web applications using modern web frameworks",
+            "Work closely with other engineers to design and implement new features",
+            "Write high-quality code that is testable, maintainable, and scalable",
+            "Collaborate with product managers to understand customer needs and prioritize features"
+        ],
+        "educational_requirements": "Bachelor's or Master's degree in Computer Science or related field",
+        "experiences": "2+ years of experience in software engineering",
+        "phone": "555-555-5555",
+        "email": "jobs@abccorp.com"
+    },
+    {
+        "id": "5",
+        "company_logo": "https://www.hatchwise.com/wp-content/uploads/2022/05/amazon-logo-1024x683.png",
+        "title": "Marketing Manager",
+        "company_name": "Amazon",
+        "remote_or_onsite": [
+            "Onsite",
+            "Remote"
+        ],
+        "location": "San Francisco, CA",
+        "fulltime_or_parttime": "Full-time",
+        "salary": "$30,000 - $100,000",
+        "description": "We are seeking a Marketing Manager to lead our marketing efforts and help us grow our business.",
+        "responsibilities": [
+            "Develop and implement marketing strategies to increase brand awareness and generate leads",
+            "Manage and execute email marketing campaigns",
+            "Create content for social media channels and oversee social media strategy",
+            "Work with product team to develop and execute product launches"
+        ],
+        "educational_requirements": "Bachelor's degree in Marketing or related field",
+        "experiences": "5+ years of experience in marketing, with 2+ years of experience in a management role",
+        "phone": "555-555-5555",
+        "email": "jobs@xyzcorp.com"
+    },
+    {
+        "id": "6",
+        "company_logo": "https://cdn.mos.cms.futurecdn.net/5StAbRHLA4ZdyzQZVivm2c.jpg",
+        "title": "Product Designer",
+        "company_name": "Walmart",
+        "remote_or_onsite": [
+            "Remote",
+            "Onsite"
+        ],
+        "location": "Chittagong,Bangladesh",
+        "fulltime_or_parttime": "Full-time",
+        "salary": "$80,000 - $90,000",
+        "description": "We are seeking a talented product designer to help us design beautiful and functional products.",
+        "responsibilities": [
+            "Work closely with product managers and engineers to design new products",
+            "Create wireframes, prototypes, and high-fidelity designs",
+            "Conduct user research and gather feedback to inform design decisions",
+            "Collaborate with other designers to maintain a consistent visual language across our products"
+        ],
+        "educational_requirements": "Bachelor's or Master's degree in Graphic Design, User Experience, or related field",
+        "experiences": "3+ years of experience in product design",
+        "phone": "555-555-5555",
+        "email": "jobs@123inc.com"
+    }
+]

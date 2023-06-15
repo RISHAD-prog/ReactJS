@@ -1,0 +1,32 @@
+.application {
+    display: flex;
+    align-items: center;
+    border: 1px solid gray;
+    padding: 10px 30px;
+    text-align: left;
+    border-radius: 10px;
+    margin-bottom: 20px;
+}
+
+.application img {
+    width: 200px;
+    height: 100px;
+}
+
+.app-details {
+    display: flex;
+    justify-content: space-between;
+    flex-grow: 1;
+    align-items: center;
+    margin-left: 15px;
+
+}
+
+.location1 {
+    font-size: medium;
+    margin-right: 9px;
+}
+
+.location2 {
+    font-size: medium;
+}

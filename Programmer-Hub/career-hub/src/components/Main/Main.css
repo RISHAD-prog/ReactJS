@@ -1,0 +1,67 @@
+@media screen and (min-width: 468px) {
+    .main {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        background-image: url('/All Images/Vector-1.png');
+        background-repeat: no-repeat;
+        background-size: contain;
+    }
+
+    .main img {
+        width: 616px;
+        height: 544px;
+    }
+
+    .main-description {
+        padding: 0% 13%;
+        text-align: left;
+    }
+
+    .main-span {
+        color: #7E90FE;
+    }
+
+    .main-btn {
+        background: linear-gradient(90deg, #7E90FE 0%, #9873FF 100%);
+        border-radius: 8px;
+    }
+
+    .job-cat-des {
+        margin-top: 90px;
+        margin-left: 20px;
+    }
+
+    .job-section {
+        display: flex;
+        justify-content: space-evenly;
+        align-items: center;
+    }
+
+    .big_jobs {
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+        grid-gap: 15px;
+        margin: 0px 60px;
+    }
+
+    .feature-btn {
+        background: linear-gradient(90deg, #7E90FE 0%, #9873FF 100%);
+        border-radius: 8px;
+        margin-top: 5%;
+        margin-left: 0%;
+    }
+}
+
+@media screen and (max-width: 460px) {
+    .main img {
+        margin-left: 0px;
+        width: 450px;
+        height: 444px;
+    }
+
+    .feature-btn {
+        background: linear-gradient(90deg, #7E90FE 0%, #9873FF 100%);
+        border-radius: 8px;
+    }
+}

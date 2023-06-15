@@ -1,0 +1,16 @@
+.job {
+    padding: 10px 20px;
+    text-align: left;
+    background-color: rgba(130, 132, 144, 0.05);
+    border-radius: 8px;
+}
+
+.job-name {
+    margin: 0%;
+    font-size: 25px;
+}
+
+.job-available {
+    margin-top: 5px;
+    margin-bottom: 0px;
+}

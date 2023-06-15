@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "logo": "Icons/chip1.png",
+        "name": "Engineering",
+        "available": 150
+    },
+    {
+        "id": 2,
+        "logo": "Icons/business1.png",
+        "name": "Accounts and Finance",
+        "available": 300
+    },
+    {
+        "id": 3,
+        "logo": "Icons/accounts1.png",
+        "name": "Creative Design",
+        "available": 200
+    },
+    {
+        "id": 4,
+        "logo": "Icons/social-media1.png",
+        "name": "Marketing & Sales",
+        "available": 100
+    }
+]

@@ -1,0 +1,29 @@
+.bigcmp {
+    border: 1px solid gray;
+    padding: 10px 30px;
+    text-align: left;
+    border-radius: 10px;
+}
+
+.salanddollar {
+    display: flex;
+    align-items: center;
+}
+
+.dollar {
+    margin-left: 25px;
+}
+
+.bigcmp-btn1 {
+    font-size: 15px;
+    margin-right: 10px;
+}
+
+.bigcmp-btn2 {
+    font-size: 15px;
+}
+
+.bigcmp img {
+    width: 118px;
+    height: 45px;
+}
