@@ -1,0 +1,8 @@
+@media screen and (min-width: 480px) {
+    .timeSpent {
+        font-size: large;
+        font-weight: 700;
+        position: sticky;
+        top: 0%;
+    }
+}

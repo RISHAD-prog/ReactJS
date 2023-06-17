@@ -1,0 +1,83 @@
+@media screen and (min-width: 480px) {
+    .cover-img {
+        width: 835px;
+        height: 450px;
+        border-radius: 8px;
+    }
+
+    .blogger-info {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    }
+
+    .blogger-info img {
+        object-fit: cover;
+        width: 60px;
+        height: 55px;
+        border-radius: 2rem;
+    }
+
+    .blogger {
+        display: flex;
+        align-items: center;
+        width: 25%;
+    }
+
+    .saving-info {
+        display: flex;
+        padding-right: 50px;
+    }
+
+    .blog-header {
+        margin-top: 30px;
+
+    }
+
+    .blog-header hr {
+        margin-right: 40px;
+        opacity: 0.3;
+    }
+}
+
+@media screen and (max-width: 470px) {
+    .cover-img {
+        margin-left: 10px;
+        width: 385px;
+        height: 215px;
+        border-radius: 8px;
+    }
+
+    .blogger-info {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    }
+
+    .blogger-info img {
+        object-fit: contain;
+        width: 40px;
+        height: 35px;
+        border-radius: 2rem;
+    }
+
+    .blogger {
+        display: inline-block;
+        width: 10%;
+    }
+
+    .saving-info {
+        display: flex;
+        padding-right: 20px;
+    }
+
+    .blog-header {
+        margin-top: 10px;
+
+    }
+
+    .blog-header hr {
+        margin-right: 20px;
+        opacity: 0.3;
+    }
+}

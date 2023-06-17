@@ -1,0 +1,15 @@
+@media screen and (min-width: 480px) {
+    .reading_details {
+        font-size: large;
+        font-weight: 700;
+        position: sticky;
+        top: 9%;
+    }
+}
+
+@media screen and (max-width: 470px) {
+    .reading_details {
+        font-size: large;
+        font-weight: 600;
+    }
+}

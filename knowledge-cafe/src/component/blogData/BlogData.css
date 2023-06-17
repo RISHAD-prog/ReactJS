@@ -1,0 +1,10 @@
+@media screen and (min-width: 480px) {
+    .blogdata {
+        display: grid;
+        grid-template-columns: 4fr 1fr;
+    }
+
+    .bookMark {
+        width: 100%;
+    }
+}
