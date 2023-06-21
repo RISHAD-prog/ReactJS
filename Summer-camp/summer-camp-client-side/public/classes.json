@@ -1,0 +1,226 @@
+[
+    {
+        "classImage": "https://images.pexels.com/photos/1234567/pexels-photo-1234567.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "className": "Basketball Training",
+        "instructorName": "John Smith",
+        "instructorEmail": "john.smith@example.com",
+        "availableSeats": 10,
+        "price": 50
+    },
+    {
+        "classImage": "https://images.pexels.com/photos/2345678/pexels-photo-2345678.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "className": "Football Skills",
+        "instructorName": "John Smith",
+        "instructorEmail": "john.smith@example.com",
+        "availableSeats": 15,
+        "price": 60
+    },
+    {
+        "classImage": "https://images.pexels.com/photos/3456789/pexels-photo-3456789.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "className": "Tennis Lessons",
+        "instructorName": "John Smith",
+        "instructorEmail": "john.smith@example.com",
+        "availableSeats": 8,
+        "price": 40
+    },
+    {
+        "classImage": "https://images.pexels.com/photos/4567890/pexels-photo-4567890.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "className": "Volleyball Clinic",
+        "instructorName": "John Smith",
+        "instructorEmail": "john.smith@example.com",
+        "availableSeats": 12,
+        "price": 55
+    },
+    {
+        "classImage": "https://images.pexels.com/photos/5678901/pexels-photo-5678901.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "className": "Swimming Lessons",
+        "instructorName": "Emily Johnson",
+        "instructorEmail": "emily.johnson@example.com",
+        "availableSeats": 6,
+        "price": 30
+    },
+    {
+        "classImage": "https://images.pexels.com/photos/6789012/pexels-photo-6789012.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "className": "Gymnastics Workshop",
+        "instructorName": "Emily Johnson",
+        "instructorEmail": "emily.johnson@example.com",
+        "availableSeats": 10,
+        "price": 45
+    },
+    {
+        "classImage": "https://images.pexels.com/photos/7890123/pexels-photo-7890123.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "className": "Swimming for Beginners",
+        "instructorName": "Michael Davis",
+        "instructorEmail": "michael.davis@example.com",
+        "availableSeats": 5,
+        "price": 25
+    },
+    {
+        "classImage": "https://images.pexels.com/photos/8901234/pexels-photo-8901234.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "className": "History of Sports",
+        "instructorName": "Michael Davis",
+        "instructorEmail": "michael.davis@example.com",
+        "availableSeats": 20,
+        "price": 40
+    },
+    {
+        "classImage": "https://images.pexels.com/photos/9012345/pexels-photo-9012345.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "className": "Fitness Bootcamp",
+        "instructorName": "Jessica Anderson",
+        "instructorEmail": "jessica.anderson@example.com",
+        "availableSeats": 15,
+        "price": 60
+    },
+    {
+        "classImage": "https://images.pexels.com/photos/1234576/pexels-photo-1234576.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "className": "Zumba Dance",
+        "instructorName": "Jessica Anderson",
+        "instructorEmail": "jessica.anderson@example.com",
+        "availableSeats": 10,
+        "price": 50
+    },
+    {
+        "classImage": "https://images.pexels.com/photos/2345678/pexels-photo-2345678.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "className": "Yoga for Beginners",
+        "instructorName": "Daniel Wilson",
+        "instructorEmail": "daniel.wilson@example.com",
+        "availableSeats": 12,
+        "price": 45
+    },
+    {
+        "classImage": "https://images.pexels.com/photos/3456789/pexels-photo-3456789.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "className": "Pilates Matwork",
+        "instructorName": "Daniel Wilson",
+        "instructorEmail": "daniel.wilson@example.com",
+        "availableSeats": 8,
+        "price": 35
+    },
+    {
+        "classImage": "https://images.pexels.com/photos/8901234/pexels-photo-8901234.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "className": "Cardio Kickboxing",
+        "instructorName": "Sophia Brown",
+        "instructorEmail": "sophia.brown@example.com",
+        "availableSeats": 10,
+        "price": 50
+    },
+    {
+        "classImage": "https://images.pexels.com/photos/9012345/pexels-photo-9012345.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "className": "Strength Training",
+        "instructorName": "Sophia Brown",
+        "instructorEmail": "sophia.brown@example.com",
+        "availableSeats": 12,
+        "price": 45
+    },
+    {
+        "classImage": "https://images.pexels.com/photos/2345678/pexels-photo-2345678.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "className": "Hatha Yoga",
+        "instructorName": "William Johnson",
+        "instructorEmail": "william.johnson@example.com",
+        "availableSeats": 15,
+        "price": 40
+    },
+    {
+        "classImage": "https://images.pexels.com/photos/3456789/pexels-photo-3456789.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "className": "Boxing Fundamentals",
+        "instructorName": "William Johnson",
+        "instructorEmail": "william.johnson@example.com",
+        "availableSeats": 12,
+        "price": 55
+    },
+    {
+        "classImage": "https://images.pexels.com/photos/8901234/pexels-photo-8901234.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "className": "Volleyball Basics",
+        "instructorName": "Olivia Martinez",
+        "instructorEmail": "olivia.martinez@example.com",
+        "availableSeats": 8,
+        "price": 60
+    },
+    {
+        "classImage": "https://images.pexels.com/photos/9012345/pexels-photo-9012345.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "className": "Tennis Lessons",
+        "instructorName": "Olivia Martinez",
+        "instructorEmail": "olivia.martinez@example.com",
+        "availableSeats": 10,
+        "price": 65
+    },
+    {
+        "classImage": "https://images.pexels.com/photos/1234576/pexels-photo-1234576.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "className": "Zumba Fitness",
+        "instructorName": "David Thompson",
+        "instructorEmail": "david.thompson@example.com",
+        "availableSeats": 15,
+        "price": 50
+    },
+    {
+        "classImage": "https://images.pexels.com/photos/2345678/pexels-photo-2345678.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "className": "Martial Arts",
+        "instructorName": "David Thompson",
+        "instructorEmail": "david.thompson@example.com",
+        "availableSeats": 12,
+        "price": 55
+    },
+    {
+        "classImage": "https://images.pexels.com/photos/3456789/pexels-photo-3456789.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "className": "Aerial Yoga",
+        "instructorName": "Emma Anderson",
+        "instructorEmail": "emma.anderson@example.com",
+        "availableSeats": 10,
+        "price": 45
+    },
+    {
+        "classImage": "https://images.pexels.com/photos/8901234/pexels-photo-8901234.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "className": "Hot Yoga",
+        "instructorName": "Emma Anderson",
+        "instructorEmail": "emma.anderson@example.com",
+        "availableSeats": 8,
+        "price": 55
+    },
+    {
+        "classImage": "https://images.pexels.com/photos/9012345/pexels-photo-9012345.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "className": "Kickboxing",
+        "instructorName": "Lucas Johnson",
+        "instructorEmail": "lucas.johnson@example.com",
+        "availableSeats": 12,
+        "price": 60
+    },
+    {
+        "classImage": "https://images.pexels.com/photos/1234576/pexels-photo-1234576.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "className": "Pilates Mat",
+        "instructorName": "Lucas Johnson",
+        "instructorEmail": "lucas.johnson@example.com",
+        "availableSeats": 10,
+        "price": 50
+    },
+    {
+        "classImage": "https://images.pexels.com/photos/2345678/pexels-photo-2345678.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "className": "Zumba Dance",
+        "instructorName": "Sophia Brown",
+        "instructorEmail": "sophia.brown@example.com",
+        "availableSeats": 15,
+        "price": 45
+    },
+    {
+        "classImage": "https://images.pexels.com/photos/3456789/pexels-photo-3456789.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "className": "Spinning",
+        "instructorName": "Sophia Brown",
+        "instructorEmail": "sophia.brown@example.com",
+        "availableSeats": 12,
+        "price": 50
+    },
+    {
+        "classImage": "https://images.pexels.com/photos/8901234/pexels-photo-8901234.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "className": "Pilates Barre",
+        "instructorName": "Daniel Wilson",
+        "instructorEmail": "daniel.wilson@example.com",
+        "availableSeats": 10,
+        "price": 55
+    },
+    {
+        "classImage": "https://images.pexels.com/photos/9012345/pexels-photo-9012345.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "className": "Aerial Silks",
+        "instructorName": "Daniel Wilson",
+        "instructorEmail": "daniel.wilson@example.com",
+        "availableSeats": 8,
+        "price": 60
+    }
+]
